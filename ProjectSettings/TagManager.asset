@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainCar
+  - Ground
+  - ExtraPoints
+  - Way
+  - ResetPos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3776033197
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Way
+    uniqueID: 1219984809
+    locked: 0
+  - name: Human
+    uniqueID: 319389923
+    locked: 0
+  - name: StreetLamp
+    uniqueID: 1289978789
+    locked: 0
+  - name: CarButNpc
+    uniqueID: 3538124855
+    locked: 0
+  - name: Car
+    uniqueID: 2948357917
+    locked: 0
+  - name: Vinyet
+    uniqueID: 2966175761
+    locked: 0
+  - name: UI
+    uniqueID: 3809623331
+    locked: 0
